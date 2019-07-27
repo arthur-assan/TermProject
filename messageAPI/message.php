@@ -3,8 +3,8 @@
 class Message{
   // text message api information
   private static $api = "http://api.mytxtbox.com/v3/messages/send?";
-  private static $client_id = "ycrrvlkf";
-  private static $client_secret = "xgryglkv";
+  private static $client_id = "#";
+  private static $client_secret = "#";
   private static $registered_delivery = "true";
   private static $from = "artech";
 
