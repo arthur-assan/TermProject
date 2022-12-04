@@ -9,12 +9,16 @@ This project is a university term project to develop a full functional ecommerce
   - Manage inventory
   - Manage users
   
-  ## Technology Used
-  - PHP
-  - HTML
-  - CSS
-  - Javascript
-  - MDBootstrap (UI Kit)
+## Technology Used
+- PHP
+- MySQL
+- HTML
+- CSS
+- Javascript
+- MDBootstrap (UI Kit)
   
-  ## Getting Started
-  - Install apache and setup to view project
+## Getting Started
+- Install apache and setup to view project
+
+## Screencast of the Project
+[![IMAGE_ALT](https://i9.ytimg.com/vi_webp/2q7D8ruXoQM/mq1.webp?sqp=CNzIspwG&rs=AOn4CLCGhEnPHx84FC-uuoyY0Cwqyprwbw)](https://www.youtube.com/watch?v=2q7D8ruXoQM)
